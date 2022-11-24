@@ -775,3 +775,660 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.24-02.49.23:362][ 87]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.24-02.49.23:362][ 87]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
 [2022.11.24-02.49.23:362][ 87]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MiniProjects/Loop/Maps/LoopMap_BuiltData.LoopMap_BuiltData
+[2022.11.24-02.49.52:780][690]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.24-02.49.52:793][690]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.24-02.49.52:803][691]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.24-02.49.54:529][895]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.11.24-02.49.54:529][895]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.24-02.49.57:092][144]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.24-02.49.58:650][144]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.24-02.49.58:660][144]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.24-02.49.58:666][144]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.24-02.49.58:691][146]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.24-02.50.01:078][415]LogContentBrowser: Attempting asset rename: NewBlueprint -> LoopGameMode
+[2022.11.24-02.50.01:083][415]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.24-02.50.10:361][855]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.24-02.50.10:371][855]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.24-02.50.10:379][855]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.24-02.50.10:391][856]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.24-02.50.11:644][  4]LogContentBrowser: Attempting asset rename: NewBlueprint -> Box
+[2022.11.24-02.50.11:649][  4]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.24-02.50.17:138][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box
+[2022.11.24-02.50.17:139][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.50.17:782][249]LogViewport: Scene viewport resized to 988x324, mode Windowed.
+[2022.11.24-02.50.19:260][340]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.50.19:261][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.50.19:929][361]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.50.19:929][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.50.20:061][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.24-02.50.20:061][372]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.50.20:061][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.50.20:523][398]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.24-02.50.20:523][398]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.50.20:523][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.50.21:162][433]LogViewport: Scene viewport resized to 985x339, mode Windowed.
+[2022.11.24-02.50.21:225][435]LogViewport: Scene viewport resized to 562x151, mode Windowed.
+[2022.11.24-02.50.21:275][436]LogViewport: Scene viewport resized to 467x109, mode Windowed.
+[2022.11.24-02.50.21:335][439]LogViewport: Scene viewport resized to 1525x562, mode Windowed.
+[2022.11.24-02.50.21:621][470]LogSlate: Window 'Box' being destroyed
+[2022.11.24-02.50.27:086][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/Box" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset" SILENT=true
+[2022.11.24-02.50.27:090][ 76]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/Box
+[2022.11.24-02.50.27:090][ 76]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/Box50B7BDA24DCEE1FFC28B599C0CD7ACAC.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset'
+[2022.11.24-02.50.27:106][ 76]AssetCheck: New page: Asset Save: Box
+[2022.11.24-02.50.27:106][ 76]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box
+[2022.11.24-02.50.28:179][203]LogViewport: Scene viewport resized to 1525x869, mode Windowed.
+[2022.11.24-02.50.30:061][424]LogDerivedDataCache: C:/Users/patom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.138 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.24-02.50.32:403][690]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.24-02.50.52:061][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/Box" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset" SILENT=true
+[2022.11.24-02.50.52:064][632]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/Box
+[2022.11.24-02.50.52:065][632]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/BoxBB1A4611471D49315C7648AE1166B6D5.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset'
+[2022.11.24-02.50.52:081][632]AssetCheck: New page: Asset Save: Box
+[2022.11.24-02.50.52:081][632]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box
+[2022.11.24-02.50.54:904][764]BlueprintLog: New page: Compile Box
+[2022.11.24-02.50.55:042][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.24-02.50.55:522][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/Box" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset" SILENT=true
+[2022.11.24-02.50.55:526][805]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/Box
+[2022.11.24-02.50.55:526][805]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/BoxBAE76FA444277027F49EE78392B7B4A5.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset'
+[2022.11.24-02.50.55:542][805]AssetCheck: New page: Asset Save: Box
+[2022.11.24-02.50.55:542][805]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box
+[2022.11.24-02.50.57:660][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniProjects/Loop/Blueprints/Box.Box_C
+[2022.11.24-02.50.57:660][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniProjects/Loop/Blueprints/Box.Box_C
+[2022.11.24-02.50.57:661][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box as actor: Box_C /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap:PersistentLevel.Box_C_0
+[2022.11.24-02.50.57:662][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box as actor: Box_C /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap:PersistentLevel.Box_C_0
+[2022.11.24-02.50.58:445][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniProjects/Loop/Blueprints/Box.Box_C
+[2022.11.24-02.50.58:445][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniProjects/Loop/Blueprints/Box.Box_C
+[2022.11.24-02.50.58:447][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box as actor: Box_C /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap:PersistentLevel.Box_C_1
+[2022.11.24-02.50.58:448][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box as actor: Box_C /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap:PersistentLevel.Box_C_1
+[2022.11.24-02.51.03:471][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.24-02.51.03:488][613]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-02.51.03:489][613]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap2D3BCBDE4DE7913DA366AE9B65A2FDDC.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-02.51.03:497][613]LogFileHelpers: No new changes to save!
+[2022.11.24-02.51.03:512][613]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-02.51.03:512][613]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
+[2022.11.24-02.51.09:723][329]Cmd: DELETE
+[2022.11.24-02.51.09:723][329]Cmd: ACTOR DELETE
+[2022.11.24-02.51.09:729][329]LogEditorActor: Deleted Actor: Box_C
+[2022.11.24-02.51.09:759][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.24-02.51.09:761][329]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.24-02.51.20:552][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-02.51.20:552][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.51.20:995][545]LogViewport: Scene viewport resized to 1525x562, mode Windowed.
+[2022.11.24-02.52.35:897][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-02.52.35:901][902]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-02.52.35:901][902]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameModeE0AD24EA43D11EB99ED80C84BE490C4C.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-02.52.35:915][902]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-02.52.35:915][902]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-02.52.42:339][666]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-02.52.42:393][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.24-02.52.42:886][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-02.52.42:891][718]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-02.52.42:891][718]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameModeDA47572645592CBBB09595995EC95D9A.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-02.52.42:905][718]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-02.52.42:905][718]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-02.52.44:199][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.24-02.52.44:207][840]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-02.52.44:208][840]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap3B736AA74EDF3BE778297EBC09360161.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-02.52.44:215][840]LogFileHelpers: No new changes to save!
+[2022.11.24-02.52.44:233][840]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-02.52.44:233][840]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
+[2022.11.24-02.52.44:726][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-02.52.45:515][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-02.52.45:516][886]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 2:52:45 PM)
+[2022.11.24-02.52.45:519][886]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.24-02.52.45:519][886]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.24-02.52.45:519][886]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-02.52.45:521][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001881s)
+[2022.11.24-02.52.45:521][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.001951s)
+[2022.11.24-02.52.45:521][886]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-02.52.45:521][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.52.45:522][886]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-02.52.45:522][886]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.11.24-02.52.45:557][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.24-02.52.45:558][886]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-02.52.45:558][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-02.52.45:558][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-02.52.45:559][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-02.52.45:559][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-02.52.45:559][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-02.52.45:560][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-02.52.45:588][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-02.52.45:589][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-02.52.45:589][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-02.52.45:589][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-02.52.45:590][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.24-02.52.45:590][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.11.24-02.52.45:592][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.24-02.52.45:592][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.24-02.52.45:592][886]LogInit: FAudioDevice initialized.
+[2022.11.24-02.52.45:592][886]LogAudio: Display: Audio Device (ID: 2) registered with world 'LoopMap'.
+[2022.11.24-02.52.45:605][886]LogLoad: Game class is 'GameModeBase'
+[2022.11.24-02.52.45:605][886]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-20.52.45
+[2022.11.24-02.52.45:606][886]LogWorld: Bringing up level for play took: 0.000687
+[2022.11.24-02.52.45:608][886]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.11.24-02.52.45:633][886]PIE: Server logged in
+[2022.11.24-02.52.45:634][886]PIE: Play in editor total start time 0.119 seconds.
+[2022.11.24-02.52.48:272][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.52.48:272][101]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-02.52.48:272][101]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.52.48:272][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.52.48:282][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-02.52.48:289][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.52.48:326][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.52.48:327][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-02.52.48:328][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-02.52.48:363][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.24-02.52.48:384][102]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.11.24-02.52.59:665][935]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.24-02.53.04:402][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.24-02.53.04:410][436]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-02.53.04:410][436]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap8904D2624045941D061537B57959EAAE.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-02.53.04:417][436]LogFileHelpers: No new changes to save!
+[2022.11.24-02.53.04:432][436]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-02.53.04:432][436]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
+[2022.11.24-02.53.05:325][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-02.53.05:330][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-02.53.05:331][524]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 2:53:05 PM)
+[2022.11.24-02.53.05:331][524]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-02.53.05:333][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001860s)
+[2022.11.24-02.53.05:333][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.001941s)
+[2022.11.24-02.53.05:333][524]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-02.53.05:333][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.53.05:333][524]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-02.53.05:334][524]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2022.11.24-02.53.05:374][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.24-02.53.05:377][524]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-02.53.05:377][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-02.53.05:377][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-02.53.05:378][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-02.53.05:378][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-02.53.05:378][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-02.53.05:380][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-02.53.05:404][524]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-02.53.05:405][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-02.53.05:405][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-02.53.05:405][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-02.53.05:405][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.24-02.53.05:405][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.11.24-02.53.05:407][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.24-02.53.05:407][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.24-02.53.05:407][524]LogInit: FAudioDevice initialized.
+[2022.11.24-02.53.05:407][524]LogAudio: Display: Audio Device (ID: 3) registered with world 'LoopMap'.
+[2022.11.24-02.53.05:421][524]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-02.53.05:422][524]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-20.53.05
+[2022.11.24-02.53.05:422][524]LogWorld: Bringing up level for play took: 0.000501
+[2022.11.24-02.53.05:424][524]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.11.24-02.53.05:426][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 0
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 1
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 2
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 3
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 4
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 5
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 6
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 7
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 8
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 9
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 10
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 11
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 12
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 13
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 14
+[2022.11.24-02.53.05:427][524]LogBlueprintUserMessages: [LoopGameMode_C_0] 15
+[2022.11.24-02.53.05:427][524]PIE: Server logged in
+[2022.11.24-02.53.05:428][524]PIE: Play in editor total start time 0.098 seconds.
+[2022.11.24-02.53.07:302][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.53.07:302][718]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-02.53.07:304][718]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.53.07:304][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.53.07:316][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-02.53.07:322][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.53.07:361][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.53.07:361][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-02.53.07:362][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-02.53.07:369][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.24-02.53.07:390][719]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.24-03.01.47:204][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.01.47:208][249]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.01.47:209][249]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode0AA354244D023D60F4E651AB8AE620AA.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.01.47:224][249]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.01.47:224][249]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.01.48:448][388]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.01.48:451][388]LogBlueprint: Error: [AssetLog] Z:\Game Dev\ReimerMiniProjects\IntroToUnreal\Content\MiniProjects\Loop\Blueprints\LoopGameMode.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.11.24-03.01.48:451][388]LogBlueprint: Error: [AssetLog] Z:\Game Dev\ReimerMiniProjects\IntroToUnreal\Content\MiniProjects\Loop\Blueprints\LoopGameMode.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.11.24-03.01.48:517][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.24-03.02.22:920][374]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.02.22:980][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.24-03.02.25:922][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.24-03.02.25:931][668]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-03.02.25:931][668]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap8EF8D61A4FBFA8A8D3264AAE69DD6592.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-03.02.25:940][668]LogFileHelpers: No new changes to save!
+[2022.11.24-03.02.25:955][668]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-03.02.25:955][668]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
+[2022.11.24-03.02.26:540][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.02.26:545][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.02.26:545][718]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:02:26 PM)
+[2022.11.24-03.02.26:545][718]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.02.26:547][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2022.11.24-03.02.26:547][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.002018s)
+[2022.11.24-03.02.26:547][718]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.02.26:548][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.02.26:548][718]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.02.26:548][718]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2022.11.24-03.02.26:591][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.24-03.02.26:591][718]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.24-03.02.26:591][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.02.26:591][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.02.26:591][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.02.26:592][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.02.26:592][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.02.26:592][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.02.26:592][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.02.26:592][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.02.26:592][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.02.26:592][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.02.26:592][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.02.26:594][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.02.26:620][718]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.02.26:621][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.02.26:621][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.02.26:621][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.02.26:622][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.24-03.02.26:622][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2022.11.24-03.02.26:623][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.24-03.02.26:623][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.24-03.02.26:623][718]LogInit: FAudioDevice initialized.
+[2022.11.24-03.02.26:623][718]LogAudio: Display: Audio Device (ID: 4) registered with world 'LoopMap'.
+[2022.11.24-03.02.26:638][718]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.02.26:638][718]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.02.26
+[2022.11.24-03.02.26:639][718]LogWorld: Bringing up level for play took: 0.000574
+[2022.11.24-03.02.26:641][718]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.11.24-03.02.26:646][718]PIE: Server logged in
+[2022.11.24-03.02.26:647][718]PIE: Play in editor total start time 0.102 seconds.
+[2022.11.24-03.02.30:675][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.02.30:675][131]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.02.30:675][131]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.02.30:675][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.02.30:687][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.02.30:695][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.02.30:735][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.02.30:735][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.24-03.02.30:737][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.24-03.02.30:745][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.24-03.02.30:768][132]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.24-03.02.37:898][595]BlueprintLog: New page: Compile Box
+[2022.11.24-03.02.37:959][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.24-03.02.38:547][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/Box" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset" SILENT=true
+[2022.11.24-03.02.38:551][647]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/Box
+[2022.11.24-03.02.38:552][647]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/Box4AC7D6414D0C0833B09BAD95BA9A6D47.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/Box.uasset'
+[2022.11.24-03.02.38:568][647]AssetCheck: New page: Asset Save: Box
+[2022.11.24-03.02.38:568][647]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/Box.Box
+[2022.11.24-03.02.44:933][352]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.02.44:995][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.24-03.02.45:418][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.02.45:422][396]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.02.45:423][396]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode0C5090A5446B354FF8FFAFB6FAF1191C.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.02.45:438][396]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.02.45:438][396]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.02.46:956][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.02.46:962][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.02.46:962][542]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:02:46 PM)
+[2022.11.24-03.02.46:962][542]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.02.46:964][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001855s)
+[2022.11.24-03.02.46:964][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.001929s)
+[2022.11.24-03.02.46:964][542]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.02.46:964][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.02.46:965][542]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.02.46:965][542]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2022.11.24-03.02.47:006][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.24-03.02.47:008][542]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.02.47:008][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.02.47:008][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.02.47:008][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.02.47:008][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.02.47:008][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.02.47:010][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.02.47:035][542]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.02.47:035][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.02.47:035][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.02.47:035][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.02.47:036][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.24-03.02.47:036][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2022.11.24-03.02.47:037][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.24-03.02.47:037][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.24-03.02.47:037][542]LogInit: FAudioDevice initialized.
+[2022.11.24-03.02.47:037][542]LogAudio: Display: Audio Device (ID: 5) registered with world 'LoopMap'.
+[2022.11.24-03.02.47:052][542]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.02.47:052][542]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.02.47
+[2022.11.24-03.02.47:053][542]LogWorld: Bringing up level for play took: 0.000495
+[2022.11.24-03.02.47:054][542]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.11.24-03.02.47:057][542]PIE: Server logged in
+[2022.11.24-03.02.47:058][542]PIE: Play in editor total start time 0.097 seconds.
+[2022.11.24-03.02.49:777][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.02.49:777][827]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.02.49:777][827]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.02.49:778][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.02.49:789][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.02.49:798][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.02.49:839][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-03.02.49:839][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.24-03.02.49:842][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.24-03.02.49:845][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.02.49:849][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.24-03.02.49:886][828]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.24-03.13.24:585][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.13.24:593][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.13.24:593][925]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:13:24 PM)
+[2022.11.24-03.13.24:623][925]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.13.24:625][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002218s)
+[2022.11.24-03.13.24:625][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.002465s)
+[2022.11.24-03.13.24:625][925]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.13.24:625][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.13.24:626][925]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.13.24:626][925]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2022.11.24-03.13.24:670][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.24-03.13.24:672][925]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.13.24:672][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.13.24:672][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.13.24:672][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.13.24:672][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.13.24:672][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.13.24:675][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.13.24:701][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.13.24:701][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.13.24:701][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.13.24:701][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.13.24:702][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.11.24-03.13.24:702][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2022.11.24-03.13.24:703][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.11.24-03.13.24:703][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.11.24-03.13.24:703][925]LogInit: FAudioDevice initialized.
+[2022.11.24-03.13.24:703][925]LogAudio: Display: Audio Device (ID: 6) registered with world 'LoopMap'.
+[2022.11.24-03.13.24:719][925]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.13.24:720][925]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.13.24
+[2022.11.24-03.13.24:720][925]LogWorld: Bringing up level for play took: 0.000551
+[2022.11.24-03.13.24:722][925]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.11.24-03.13.24:726][925]PIE: Server logged in
+[2022.11.24-03.13.24:726][925]PIE: Play in editor total start time 0.134 seconds.
+[2022.11.24-03.13.28:492][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.13.28:492][312]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.13.28:492][312]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.13.28:494][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.13.28:504][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.13.28:513][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.13.28:553][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.13.28:553][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.24-03.13.28:555][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.24-03.13.28:562][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.24-03.13.28:597][313]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.24-03.13.35:062][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.24-03.13.35:070][ 54]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-03.13.35:071][ 54]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap704B57854E837402F4E937BA0D620D47.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-03.13.35:077][ 54]LogFileHelpers: No new changes to save!
+[2022.11.24-03.13.35:093][ 54]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-03.13.35:093][ 54]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
+[2022.11.24-03.15.18:872][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.15.18:876][  7]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.15.18:877][  7]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameModeA6771FB141F0191BF0DD2CBDA1BACEBB.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.15.18:894][  7]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.15.18:894][  7]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.16.52:430][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.16.52:435][823]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.16.52:436][823]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameModeC7988B6948EE85A8E9867A83C01560F7.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.16.52:457][823]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.16.52:457][823]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.16.52:854][870]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.16.52:918][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.24-03.16.53:595][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.16.53:599][944]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.16.53:600][944]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameModeEDADB9384CA191CECCCA3FA7322D62DB.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.16.53:616][944]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.16.53:616][944]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.16.54:875][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.16.54:880][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.16.54:882][ 42]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:16:54 PM)
+[2022.11.24-03.16.54:912][ 42]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.16.54:914][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002124s)
+[2022.11.24-03.16.54:914][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.002231s)
+[2022.11.24-03.16.54:914][ 42]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.16.54:914][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.16.54:914][ 42]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.16.54:915][ 42]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2022.11.24-03.16.54:957][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.24-03.16.54:959][ 42]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.16.54:959][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.16.54:959][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.16.54:960][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.16.54:960][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.16.54:960][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.16.54:961][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.16.54:988][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.16.54:988][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.16.54:988][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.16.54:988][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.16.54:989][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.11.24-03.16.54:989][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2022.11.24-03.16.54:990][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.11.24-03.16.54:990][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.11.24-03.16.54:990][ 42]LogInit: FAudioDevice initialized.
+[2022.11.24-03.16.54:990][ 42]LogAudio: Display: Audio Device (ID: 7) registered with world 'LoopMap'.
+[2022.11.24-03.16.55:001][ 42]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.16.55:002][ 42]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.16.55
+[2022.11.24-03.16.55:002][ 42]LogWorld: Bringing up level for play took: 0.000982
+[2022.11.24-03.16.55:004][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.24-03.16.55:010][ 42]PIE: Server logged in
+[2022.11.24-03.16.55:010][ 42]PIE: Play in editor total start time 0.13 seconds.
+[2022.11.24-03.16.58:851][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.16.58:851][441]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.16.58:851][441]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.16.58:853][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.16.58:868][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.16.58:875][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.16.58:916][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-03.16.58:916][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.24-03.16.58:917][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.24-03.16.58:921][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.16.58:924][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.24-03.16.58:960][442]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.24-03.17.12:545][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.17.12:554][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.17.12:554][966]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:17:12 PM)
+[2022.11.24-03.17.12:582][966]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.12:584][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001918s)
+[2022.11.24-03.17.12:584][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.002023s)
+[2022.11.24-03.17.12:584][966]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.17.12:585][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.17.12:585][966]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.17.12:585][966]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.11.24-03.17.12:626][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.24-03.17.12:628][966]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.17.12:628][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.17.12:628][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.17.12:629][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.17.12:629][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.17.12:629][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.17.12:631][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.17.12:656][966]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.17.12:657][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.17.12:657][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.17.12:657][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.17.12:657][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.24-03.17.12:657][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2022.11.24-03.17.12:659][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.24-03.17.12:659][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.24-03.17.12:659][966]LogInit: FAudioDevice initialized.
+[2022.11.24-03.17.12:659][966]LogAudio: Display: Audio Device (ID: 8) registered with world 'LoopMap'.
+[2022.11.24-03.17.12:671][966]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.17.12:672][966]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.17.12
+[2022.11.24-03.17.12:672][966]LogWorld: Bringing up level for play took: 0.000606
+[2022.11.24-03.17.12:674][966]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.11.24-03.17.12:679][966]PIE: Server logged in
+[2022.11.24-03.17.12:679][966]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.24-03.17.14:532][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.14:532][124]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.14:533][124]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.17.14:533][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.14:543][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.17.14:550][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.14:591][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.14:591][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.24-03.17.14:592][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.24-03.17.14:600][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.24-03.17.14:625][125]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.24-03.17.18:894][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.17.18:898][595]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.17.18:899][595]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode5BE4137B44E040B7E19B48ADAC84AF6A.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.17.18:917][595]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.17.18:917][595]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.17.19:592][675]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.17.19:654][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.24-03.17.20:984][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.17.20:990][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.17.20:990][800]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:17:20 PM)
+[2022.11.24-03.17.20:990][800]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.20:992][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001918s)
+[2022.11.24-03.17.20:992][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.002001s)
+[2022.11.24-03.17.20:992][800]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.17.20:992][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.17.20:992][800]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.17.20:993][800]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2022.11.24-03.17.21:034][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.24-03.17.21:036][800]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.17.21:036][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.17.21:036][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.17.21:036][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.17.21:036][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.17.21:036][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.17.21:038][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.17.21:063][800]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.17.21:063][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.17.21:063][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.17.21:065][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.17.21:065][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.24-03.17.21:065][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2022.11.24-03.17.21:067][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.24-03.17.21:067][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.24-03.17.21:067][800]LogInit: FAudioDevice initialized.
+[2022.11.24-03.17.21:067][800]LogAudio: Display: Audio Device (ID: 9) registered with world 'LoopMap'.
+[2022.11.24-03.17.21:077][800]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.17.21:077][800]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.17.21
+[2022.11.24-03.17.21:077][800]LogWorld: Bringing up level for play took: 0.000496
+[2022.11.24-03.17.21:079][800]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.11.24-03.17.21:099][800]PIE: Server logged in
+[2022.11.24-03.17.21:100][800]PIE: Play in editor total start time 0.11 seconds.
+[2022.11.24-03.17.24:994][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.24:994][186]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.24:994][186]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.17.24:995][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.25:008][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.17.25:015][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.25:056][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-03.17.25:056][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.24-03.17.25:058][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.24-03.17.25:062][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.25:066][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.24-03.17.25:102][187]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.11.24-03.17.36:917][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.17.36:922][546]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.17.36:922][546]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode1876B77B4099B24AF088A6901BA9D666.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.17.36:938][546]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.17.36:938][546]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.17.38:097][681]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.17.38:160][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.24-03.17.38:654][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.17.38:658][733]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.17.38:659][733]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode2635740C4F671755DC446BBA24E72BEB.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.17.38:674][733]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.17.38:674][733]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.17.39:854][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-03.17.39:859][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-03.17.39:860][839]PIE: New page: PIE session: LoopMap (Nov 23, 2022, 3:17:39 PM)
+[2022.11.24-03.17.39:893][839]LogPlayLevel: Creating play world package: /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.39:895][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001838s)
+[2022.11.24-03.17.39:895][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap to /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap (0.001938s)
+[2022.11.24-03.17.39:895][839]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-03.17.39:896][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-03.17.39:896][839]LogAIModule: Creating AISystem for world LoopMap
+[2022.11.24-03.17.39:896][839]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.11.24-03.17.39:938][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.24-03.17.39:939][839]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-03.17.39:940][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-03.17.39:940][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-03.17.39:940][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-03.17.39:940][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-03.17.39:940][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-03.17.39:942][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-03.17.39:966][839]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-03.17.39:966][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-03.17.39:966][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-03.17.39:966][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-03.17.39:967][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.24-03.17.39:967][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2022.11.24-03.17.39:969][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.24-03.17.39:969][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.24-03.17.39:969][839]LogInit: FAudioDevice initialized.
+[2022.11.24-03.17.39:969][839]LogAudio: Display: Audio Device (ID: 10) registered with world 'LoopMap'.
+[2022.11.24-03.17.39:981][839]LogLoad: Game class is 'LoopGameMode_C'
+[2022.11.24-03.17.39:981][839]LogWorld: Bringing World /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap.LoopMap up for play (max tick rate 0) at 2022.11.23-21.17.39
+[2022.11.24-03.17.39:981][839]LogWorld: Bringing up level for play took: 0.000548
+[2022.11.24-03.17.39:984][839]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.11.24-03.17.39:995][839]PIE: Server logged in
+[2022.11.24-03.17.39:995][839]PIE: Play in editor total start time 0.136 seconds.
+[2022.11.24-03.17.45:643][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.45:643][444]LogWorld: BeginTearingDown for /Game/MiniProjects/Loop/Maps/UEDPIE_0_LoopMap
+[2022.11.24-03.17.45:643][444]LogWorld: UWorld::CleanupWorld for LoopMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-03.17.45:644][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.45:660][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-03.17.45:667][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-03.17.45:707][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-03.17.45:707][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.24-03.17.45:708][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.24-03.17.45:713][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-03.17.45:717][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.24-03.17.45:754][445]LogPlayLevel: Display: Destroying online subsystem :Context_18
