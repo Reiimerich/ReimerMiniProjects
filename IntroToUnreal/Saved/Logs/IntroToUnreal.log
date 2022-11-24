@@ -2190,3 +2190,16 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.24-03.32.32:389][ 46]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode87C4B3584ACE968E565A12A14461994A.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
 [2022.11.24-03.32.32:405][ 46]AssetCheck: New page: Asset Save: LoopGameMode
 [2022.11.24-03.32.32:405][ 46]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.34.25:423][842]BlueprintLog: New page: Compile LoopGameMode
+[2022.11.24-03.34.25:486][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.24-03.34.26:042][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniProjects/Loop/Blueprints/LoopGameMode" FILE="Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset" SILENT=true
+[2022.11.24-03.34.26:046][901]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Blueprints/LoopGameMode
+[2022.11.24-03.34.26:047][901]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopGameMode017857874706978109173C8CCB2AC460.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Blueprints/LoopGameMode.uasset'
+[2022.11.24-03.34.26:062][901]AssetCheck: New page: Asset Save: LoopGameMode
+[2022.11.24-03.34.26:062][901]LogContentValidation: Display: Validating Blueprint /Game/MiniProjects/Loop/Blueprints/LoopGameMode.LoopGameMode
+[2022.11.24-03.34.27:687][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.24-03.34.27:696][ 66]LogSavePackage: Moving output files for package: /Game/MiniProjects/Loop/Maps/LoopMap
+[2022.11.24-03.34.27:696][ 66]LogSavePackage: Moving 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Saved/LoopMap28E0E7BE4B2AE916C82581B4F55F7522.tmp' to 'Z:/Game Dev/ReimerMiniProjects/IntroToUnreal/Content/MiniProjects/Loop/Maps/LoopMap.umap'
+[2022.11.24-03.34.27:705][ 66]LogFileHelpers: No new changes to save!
+[2022.11.24-03.34.27:721][ 66]AssetCheck: New page: Asset Save: LoopMap
+[2022.11.24-03.34.27:721][ 66]LogContentValidation: Display: Validating World /Game/MiniProjects/Loop/Maps/LoopMap.LoopMap
